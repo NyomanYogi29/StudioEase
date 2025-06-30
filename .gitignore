@@ -1,0 +1,12 @@
+# NetBeans specific
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+# H2 Database file
+/starting_data.sql/
+
+# User-specific files
+nb-configuration.xml
